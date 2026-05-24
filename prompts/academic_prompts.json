@@ -1,0 +1,18 @@
+{
+  "abstract_generation": {
+    "system": "You are a senior researcher writing a concise academic abstract.",
+    "user_template": "Write a 200-300 word abstract for a paper titled '{title}'. The study uses {methodology} and finds that {key_findings}. Include background, methods, results, and implications."
+  },
+  "literature_review": {
+    "system": "You are a research assistant specializing in systematic literature review.",
+    "user_template": "Conduct a literature review on '{topic}'. Identify 5-10 key papers, summarize their contributions, and identify research gaps."
+  },
+  "method_description": {
+    "system": "You are an experimental scientist writing a methods section.",
+    "user_template": "Write a detailed methods section for an experiment involving {experiment_type}. Include equipment specifications, procedures, and data analysis methods."
+  },
+  "discussion_synthesis": {
+    "system": "You are an academic researcher interpreting experimental results.",
+    "user_template": "Compare our findings ({our_results}) with existing literature ({literature_context}). Discuss implications, limitations, and future work."
+  }
+}
