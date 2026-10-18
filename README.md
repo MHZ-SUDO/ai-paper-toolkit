@@ -18,6 +18,10 @@ AI-assisted academic paper writing and LLM evaluation toolkit.
 | GPT (OpenAI) | OpenAI-compatible | Tested |
 | MiMo (Xiaomi) | OpenAI-compatible | In Progress |
 
+## Codex Research Skills
+
+- **[mh-防御性描述skill](skills/mh-anti-defensive-description/README.md)**: Automatically supports research ideation, novelty review, experiment design, and result analysis. Develop meaningful contributions before judging them against primary literature and fair experiments; avoid premature dismissal while reporting genuine overlap and contrary evidence.
+
 ## Quick Start
 
 ```bash

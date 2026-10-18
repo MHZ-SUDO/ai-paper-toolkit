@@ -1,0 +1,6 @@
+interface:
+  display_name: "mh-防御性描述skill"
+  short_description: "找创新点和设计分析实验时自动启用，发展实质贡献，避免过度防御与硬凑创新"
+  default_prompt: "使用 $mh-anti-defensive-description 发展这个研究 idea，核实真正有意义的新增贡献，并设计能检验核心机制的公平实验。"
+policy:
+  allow_implicit_invocation: true
