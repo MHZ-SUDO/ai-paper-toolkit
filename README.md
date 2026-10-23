@@ -20,6 +20,7 @@ AI-assisted academic paper writing and LLM evaluation toolkit.
 
 ## Codex Research Skills
 
+- **[MH-Patent skill](skills/mh-patent/README.md)**: Automatically supports patent drafting and revision across structural, control, and combined inventions, with reusable Word templates, working-process descriptions, editable figure annotations, and model/source handoff checks.
 - **[mh-防御性描述skill](skills/mh-anti-defensive-description/README.md)**: Automatically supports research ideation, novelty review, experiment design, and result analysis. Develop meaningful contributions before judging them against primary literature and fair experiments; avoid premature dismissal while reporting genuine overlap and contrary evidence.
 
 ## Quick Start
@@ -74,3 +75,4 @@ ai-paper-toolkit/
 ## License
 
 MIT
+

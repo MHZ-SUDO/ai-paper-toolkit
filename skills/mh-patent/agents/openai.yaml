@@ -1,0 +1,6 @@
+interface:
+  display_name: "MH-Patent skill"
+  short_description: "按已确认偏好编写结构、控制与结构控制结合的专利，整理附图和可编辑交付"
+  default_prompt: "使用 $mh-patent 根据最新稿和我的修改意见完善这份专利，保持工作过程、附图、模型与可编辑源文件一致。"
+policy:
+  allow_implicit_invocation: true
